@@ -1,0 +1,6 @@
+@CAT_HostAddress = http://localhost:5223
+
+GET {{CAT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
